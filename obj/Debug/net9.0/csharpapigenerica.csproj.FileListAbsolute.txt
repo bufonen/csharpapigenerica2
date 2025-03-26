@@ -31,3 +31,4 @@ C:\Users\santi\Downloads\Apigenerica\csharpapigenerica\obj\Debug\net9.0\refint\c
 C:\Users\santi\Downloads\Apigenerica\csharpapigenerica\obj\Debug\net9.0\csharpapigenerica.pdb
 C:\Users\santi\Downloads\Apigenerica\csharpapigenerica\obj\Debug\net9.0\csharpapigenerica.genruntimeconfig.cache
 C:\Users\santi\Downloads\Apigenerica\csharpapigenerica\obj\Debug\net9.0\ref\csharpapigenerica.dll
+C:\Users\santi\Downloads\Apigenerica\csharpapigenerica\obj\Debug\net9.0\csharpapigenerica.sourcelink.json
